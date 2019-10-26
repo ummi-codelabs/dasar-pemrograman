@@ -6,6 +6,6 @@ materi yang dipelajari disesuaikan dengan rencana pembelajaran.
 + Pengenalan tentang konsep dasar komputasi
 + Pengenalan bahasa pemrograman PHP
 + Tipe data, variable, dan konstanta
++ Input dan output
 + Percabangan
 + Pengulangan
-+ Input dan output
