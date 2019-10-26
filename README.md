@@ -1,5 +1,5 @@
 # dasar-pemrograman
-Repo ini adalah repositori untuk persiapan share ilmu seputar dasar pemrograman menggunakan bahasa pemrograman PHP.
+Repositori untuk kegiatan ngoding bareng dan share ilmu seputar dasar pemrograman menggunakan bahasa pemrograman PHP.
 
 ## Materi yang dipelajari
 materi yang dipelajari disesuaikan dengan rencana pembelajaran.
