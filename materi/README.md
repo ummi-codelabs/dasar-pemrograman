@@ -1,1 +1,1 @@
-ini folder untuk sample code menggunakan bahasa pemrograman php yang akan dipelajari di setiap pertemuan.
+Folder ini dikhususkan untuk materi yang akan dipelajari. Untuk challenge dan lainnya akan disediakan di folder khusus.
