@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Dasar pemrograman</title>
+</head>
+
+<body>
+    <h1>Materi input output</h1>
+
+    <form>
+        <label>Panjang</label> <br>
+        <input type="text" id="panjang"> <br>
+
+        <label>Lebar</label> <br>
+        <input type="text" id="lebar"> <br>
+
+        <label>Tinggi</label> <br>
+        <input type="text" id="tinggi"> <br>
+
+        <button type="submit" id="hitung">Hitung</button>
+
+    </form>
+</body>
+
+<script>
+
+
+    let hitungBtn = document.getElementById('hitung');
+
+    hitungBtn.addEventListener('click', function() {
+        let panjang = document.getElementById('panjang').value;
+        let lebar = document.getElementById('lebar').value;
+        let tinggi = document.getElementById('tinggi').value;
+        let volume = panjang * lebar * tinggi;
+        alert("Volume dari kotak adalah " + volume);
+    })
+
+    
+</script>
+</html>

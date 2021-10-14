@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Dasar pemrograman</title>
+</head>
+
+<body>
+    <h1>Materi input output</h1>
+
+    <form>
+        <label>Masukan nama</label> <br>
+        <input type="text" id="nama"> <br>
+
+        <label>Masukan nim</label> <br>
+        <input type="text" id="nim"> <br>
+
+        <button type="submit" id="submit">Submit</button>
+
+    </form>
+</body>
+
+<script>
+
+
+    let submitBtn = document.getElementById('submit');
+
+    submitBtn.addEventListener('click', function() {
+
+        let nama = document.getElementById('nama').value;
+        let nim = document.getElementById('nim').value;
+
+        alert("nim mahasiswa dengan nama " + nama + " adalah " + nim);
+    })
+
+    
+</script>
+</html>
