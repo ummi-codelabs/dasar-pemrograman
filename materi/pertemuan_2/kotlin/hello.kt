@@ -1,7 +1,19 @@
 fun main () {
-    println("""
-        hello
-        ini cara termudah untuk membuat text kebawah
-        menggunakan kotlin
-    """.trimIndent())
+    //ini menampilkan tulisan
+    println("selamat belajar pemograman dasar") // ini komentar
+
+    // ini tag break
+    println("\n")
+
+    /*
+    * ini komentar pertama
+    * komentar kedua
+    * komentar ketiga
+     */
+
+    print(555)
+
+    println("\n")
+
+    println("selamat belajar \n pemograman dasar")
 }
